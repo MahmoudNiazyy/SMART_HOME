@@ -1,10 +1,3 @@
-/*
- * ADC_driver.h
- *
- * Created: 3/3/2018 5:00:21 PM
- *  Author: Mohamed Zaghlol
- */ 
-
 
 #ifndef ADC_DRIVER_H_
 #define ADC_DRIVER_H_

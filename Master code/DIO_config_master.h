@@ -1,10 +1,3 @@
-/*
- * DIO_config_master.h
- *
- * Created: 4/24/2018 11:53:29 PM
- *  Author: Mohamed Zaghlol
- */ 
-
 
 #ifndef DIO_CONFIG_MASTER_H_
 #define DIO_CONFIG_MASTER_H_

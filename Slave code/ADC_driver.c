@@ -1,9 +1,4 @@
-/*
-* ADC_driver.c
-*
-* Created: 3/3/2018 4:59:46 PM
-*  Author: Mohamed Zaghlol
-*/
+
 #include <avr/io.h>
 #include "std_macros.h"
 #include "STD_Types.h"

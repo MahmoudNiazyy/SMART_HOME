@@ -1,9 +1,3 @@
-/*
- * DIO_Slave_cfg.h
- *
- * Created: 4/25/2018 12:49:18 PM
- *  Author: Mohamed Zaghlol
- */ 
 
 
 #ifndef DIO_SLAVE_CFG_H_

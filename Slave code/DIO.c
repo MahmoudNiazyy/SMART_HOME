@@ -1,9 +1,3 @@
-/*
-* DIO.c
-*
-* Created: 2/9/2018 4:46:19 PM
-*  Author: Mohamed Zaghlol
-*/
 
 #include <avr/io.h>
 #include "std_macros.h"

@@ -1,10 +1,3 @@
-/*
- * APP_slave_Macros.h
- *
- * Created: 4/25/2018 12:47:55 PM
- *  Author: Mohamed Zaghlol
- */ 
-
 
 #ifndef APP_SLAVE_MACROS_H_
 #define APP_SLAVE_MACROS_H_

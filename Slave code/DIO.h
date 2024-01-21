@@ -1,10 +1,3 @@
-/*
- * DIO.h
- *
- * Created: 2/9/2018 4:46:30 PM
- *  Author: Mohamed Zaghlol
- */ 
-
 
 #ifndef DIO_H_
 #define DIO_H_

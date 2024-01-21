@@ -1,9 +1,3 @@
-/*
- * STD_Types.h
- *
- * Created: 4/25/2018 11:16:48 AM
- *  Author: Mohamed Zaghlol
- */ 
 
 
 #ifndef STD_TYPES_H_
